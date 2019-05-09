@@ -18,7 +18,7 @@
 
 ## Installation
 
-Pour Installer l'application un installateur existe. Vous le trouverez [ici](installateur à refaire avec stat et à upload gdrive avec la bdd). Il vous suffit de suivre les étapes d'installation.
+Pour Installer l'application un installateur existe. Vous le trouverez [ici](https://drive.google.com/uc?export=download&id=1hHyy-rpitB4FA01QcB7Wd56L4WqKPkAV). Il vous suffit de suivre les étapes d'installation.
 
 
 ## Un problème ?
