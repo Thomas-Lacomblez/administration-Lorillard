@@ -67,14 +67,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ppe_lorillard.exe" size="151008">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ppe_lorillard.exe" size="153056">
       <assemblyIdentity name="ppe_lorillard" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>kfH8SEz+sdPPXefXMGib6H9AGDnLCrr0DolYjK27zXY=</dsig:DigestValue>
+        <dsig:DigestValue>/6t/9zxDtyxoTnOZfKuwEuByP9D+CUg15dxTU1WNQrw=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

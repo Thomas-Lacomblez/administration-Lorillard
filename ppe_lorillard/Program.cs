@@ -9,9 +9,9 @@ namespace ppe_lorillard
     static class Program
     {
         public static string MonServeur = "localhost";
-        public static string MaBDD = "ppe";
-        public static string MonId = "root";
-        public static string MonMdp = "";
+        public static string MaBDD = "administrationlorillard";
+        public static string MonId = "admin";
+        public static string MonMdp = "lorillard";
 
         /// <summary>
         /// The main entry point for the application.
