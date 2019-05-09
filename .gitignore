@@ -1,0 +1,6 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/ppe_lorillard/v16/Server/sqlite3/db.lock
+ppe_lorillard/obj/Release/TempPE
